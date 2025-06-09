@@ -359,7 +359,7 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 - [Webhooks](https://github.com/Shopify/shopify-app-js/tree/main/packages/shopify-app-remix#authenticating-webhook-requests): Callbacks sent by Shopify when certain events occur
 - [Polaris](https://polaris.shopify.com/): Design system that enables apps to create Shopify-like experiences
 
-## Resources
+### Resources
 
 - [Remix Docs](https://remix.run/docs/en/v1)
 - [Shopify App Remix](https://shopify.dev/docs/api/shopify-app-remix)
