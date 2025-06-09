@@ -1,0 +1,4 @@
+SHOPIFY_API_KEY=137dae047380ae4005d5a9c208ee53da
+SHOPIFY_API_SECRET=12c172103591c699368aa285e2bcfbc8
+SCOPES=read_products,write_themes
+HOST=https://your-ngrok-url.ngrok.io
